@@ -43,6 +43,7 @@ en:
           insecure: 'SSL Certificate is insecure (for instance, self-signed)'
           cert_required: 'Require Client Certificate'
           ca_certs: 'SSL CA Certificates File'
+        ldap_header: 'LDAP Settings'
       validation:
         api_version: 'API version %{api_version} not recognized.'
         enable_keystone_api: 'Keystone API version 3 needs to be enabled in order to use domain specific drivers.'
